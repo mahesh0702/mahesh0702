@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React.js , Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://mahesh0702.github.io/main/](https://mahesh0702.github.io/main/)
+- 👨‍💻 All of my projects are available at [(https://mahesh0702.github.io/My-Portfolio/](https://mahesh0702.github.io/My-Portfolio/)
 
 - 💬 Ask me about **React.js**
 
